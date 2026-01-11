@@ -24,6 +24,7 @@ A deprecated legacy shader for particles. Might receive updates in the future, b
 ## Contributors
 
 * [Cibbi](https://github.com/Cibbi)
+* [Rero](https://github.com/RetroGEO)
 
 ## License
 
